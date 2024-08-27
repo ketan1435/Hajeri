@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874148534600",
+    "project_id": "hajeri-8c539",
+    "storage_bucket": "hajeri-8c539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874148534600:android:74e1044321395f3d73fb7d",
+        "android_client_info": {
+          "package_name": "com.example.hajeri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeB_jWeMTvdxdTp1LLp5y72JuhCN6hE-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
